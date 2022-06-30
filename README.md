@@ -18,7 +18,7 @@ Prenez les fichiers SVG dans le dossier Figma puis glissez/déposez dans votre n
 
 ## Previsualisation de la maquette
 
-<p align="center"><img src="https://github.com/Rafales-Alexandre/Integration_Statique---vpn/blob/main/img/Desktop - 2.png" alt="template 3" width="300" /></p>
+<p align="center"><img src="https://github.com/Rafales-Alexandre/Int-gration-statique-Portfolio/blob/main/img/Personal Portfolio Webpage.png" alt="template 3" width="300" /></p>
 
 ## Bug & améliorations
 
